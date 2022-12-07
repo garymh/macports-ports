@@ -16,9 +16,9 @@ long_description    ${name} is an open source GitLab CLI tool \
                     you are already working with git and your code.
 
 checksums           ${distname}${extract.suffix} \
-                        rmd160  73374c19320c259ef2dead914d83673f33e6c31c \
-                        sha256  251f457f4e9990be4d2c991fa9fc427802695f463a8d5883b9b22f9adeca8438 \
-                        size    16627859
+                        rmd160  8460b15e0d60950b752c1c85279a42abd1ebdded \
+                        sha256  52ab24a1096e2b875bfa3051b16e3fbcc8afd332169c5f784b6907fdfec7a0b5 \
+                        size    16629968
 
 # If not set, it states that it's a developer build
 # Suppress build date for reproducible builds
